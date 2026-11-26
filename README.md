@@ -4,24 +4,23 @@
 
 ---
 
-## 🚀 Sobre mí
-* 🎓 Actualmente cursando **Ingeniería de Sistemas**.
-* 💻 Enfocada en desarrollo de aplicaciones de escritorio y web, estructuración de bases de datos y scripts de automatización.
-* 📊 Participante activa en análisis y procesamiento de datos territoriales y ambientales.
-* 🎯 En búsqueda de mi primera oportunidad laboral / práctica profesional para aplicar y expandir mis conocimientos.
+##  Sobre mí
+*  Actualmente cursando **Ingeniería de Sistemas**.
+*  Enfocada en desarrollo de aplicaciones de escritorio y web, estructuración de bases de datos.
+*  En búsqueda de mi primera oportunidad laboral / práctica profesional para aplicar y expandir mis conocimientos.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 ### **Lenguajes de Programación**
 `Java` `Python` `JavaScript` `SQL` `Bash`
 
 ### **Bases de Datos**
-`MySQL` `Microsoft SQL Server` `Oracle APEX` `MongoDB`
+`MySQL`  `Oracle APEX` `MongoDB`
 
 ### **Herramientas y Entornos**
-`Git` `GitHub` `NetBeans` `VS Code` `VirtualBox` `Streamlit` `Linux (Debian)`
+`Git` `GitHub` `NetBeans` `VS Code` `VirtualBox` 
 
 ---
 
@@ -34,8 +33,8 @@
 ---
 
 ## 📫 Contacto & Redes
-* 💼 **LinkedIn:** [tu-perfil-aqui](https://linkedin.com/in/tu-perfil)
-* 📧 **Correo Electrónico:** [tu-correo@email.com](mailto:tu-correo@email.com)
+* 💼 **LinkedIn:** (https://linkedin.com/in/tu-perfil)
+* 📧 **Correo Electrónico:** (yuranymacias02@gmail.com)
 <!--
 **YuranyMacias/YuranyMacias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
