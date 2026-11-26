@@ -14,7 +14,7 @@
 ##  Tecnologías y Herramientas
 
 ### **Lenguajes de Programación**
-`Java` `Python` `JavaScript` `SQL` `Bash`
+`Java`  `JavaScript` `SQL` `Bash`
 
 ### **Bases de Datos**
 `MySQL`  `Oracle APEX` `MongoDB`
